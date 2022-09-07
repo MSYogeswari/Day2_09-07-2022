@@ -11,3 +11,5 @@ public class HelloWorld{
         System.out.println("sum of rice bags at 64th box " + result);
      }
 }
+Output:
+sum of rice bags at 64th box 9223372036854775808
