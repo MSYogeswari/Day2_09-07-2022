@@ -15,3 +15,7 @@ public class HelloWorld{
         System.out.println(n + "th element is" + result);
      }
 }
+Output:
+Enter number to generate sequence = 9
+To find nth element, enter n = 4
+4th element is72
